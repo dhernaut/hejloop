@@ -1,7 +1,7 @@
 </main>
 <footer class="site-footer">
   <div class="container">
-    <small>© <?= date('Y') ?> hej!loop — ručno rađene heklane igračke</small>
+    <small>Copyright© <?= date('Y') ?> Denis Hernaut projekt hej!loop </small>
   </div>
 </footer>
 <script src="assets/js/main.js"></script>
